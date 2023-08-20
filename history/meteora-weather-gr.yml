@@ -1,7 +1,7 @@
-url: https://meteora-weather.gr
-status: down
+url: https://api.meteora-weather.gr/status
+status: up
 code: 200
-responseTime: 219
-lastUpdated: 2023-08-20T10:52:52.353Z
+responseTime: 889
+lastUpdated: 2023-08-20T10:55:06.277Z
 startTime: 2023-08-20T10:52:52.056Z
 generator: Upptime <https://github.com/upptime/upptime>
