@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 624,
-    "timeDay": 624,
-    "timeWeek": 624,
-    "timeMonth": 624,
-    "timeYear": 624,
+    "time": 619,
+    "timeDay": 619,
+    "timeWeek": 619,
+    "timeMonth": 619,
+    "timeYear": 619,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2669,
-    "timeDay": 2669,
-    "timeWeek": 2669,
-    "timeMonth": 2669,
-    "timeYear": 2669,
+    "time": 2548,
+    "timeDay": 2548,
+    "timeWeek": 2548,
+    "timeMonth": 2548,
+    "timeYear": 2548,
     "dailyMinutesDown": {}
   },
   {
@@ -41,18 +41,38 @@
     "icon": "https://www.home-assistant.io/images/favicon.ico",
     "slug": "home-assistant",
     "status": "up",
-    "uptime": "0.91%",
-    "uptimeDay": "0.91%",
-    "uptimeWeek": "0.91%",
-    "uptimeMonth": "0.91%",
-    "uptimeYear": "0.91%",
-    "time": 770,
-    "timeDay": 770,
-    "timeWeek": 770,
-    "timeMonth": 770,
-    "timeYear": 770,
+    "uptime": "33.77%",
+    "uptimeDay": "33.77%",
+    "uptimeWeek": "33.77%",
+    "uptimeMonth": "33.77%",
+    "uptimeYear": "33.77%",
+    "time": 694,
+    "timeDay": 694,
+    "timeWeek": 694,
+    "timeMonth": 694,
+    "timeYear": 694,
     "dailyMinutesDown": {
       "2023-08-20": 17
+    }
+  },
+  {
+    "name": "RIPE Atlas Probe",
+    "url": "https://atlas.ripe.net/api/v2/probes/1006104/",
+    "icon": "https://www.ripe.net/favicon.ico",
+    "slug": "ripe-atlas-probe",
+    "status": "down",
+    "uptime": "29.48%",
+    "uptimeDay": "29.48%",
+    "uptimeWeek": "29.48%",
+    "uptimeMonth": "29.48%",
+    "uptimeYear": "29.48%",
+    "time": 552,
+    "timeDay": 552,
+    "timeWeek": 552,
+    "timeMonth": 552,
+    "timeYear": 552,
+    "dailyMinutesDown": {
+      "2023-08-20": 0
     }
   }
 ]
