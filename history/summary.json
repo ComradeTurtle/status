@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 554,
-    "timeDay": 554,
-    "timeWeek": 554,
-    "timeMonth": 554,
-    "timeYear": 554,
+    "time": 624,
+    "timeDay": 624,
+    "timeWeek": 624,
+    "timeMonth": 624,
+    "timeYear": 624,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2783,
-    "timeDay": 2783,
-    "timeWeek": 2783,
-    "timeMonth": 2783,
-    "timeYear": 2783,
+    "time": 2669,
+    "timeDay": 2669,
+    "timeWeek": 2669,
+    "timeMonth": 2669,
+    "timeYear": 2669,
     "dailyMinutesDown": {}
   },
   {
@@ -40,19 +40,19 @@
     "url": "$HAURL",
     "icon": "https://www.home-assistant.io/images/favicon.ico",
     "slug": "home-assistant",
-    "status": "down",
-    "uptime": "0.78%",
-    "uptimeDay": "0.78%",
-    "uptimeWeek": "0.78%",
-    "uptimeMonth": "0.78%",
-    "uptimeYear": "0.78%",
-    "time": 837,
-    "timeDay": 837,
-    "timeWeek": 837,
-    "timeMonth": 837,
-    "timeYear": 837,
+    "status": "up",
+    "uptime": "0.49%",
+    "uptimeDay": "0.49%",
+    "uptimeWeek": "0.49%",
+    "uptimeMonth": "0.49%",
+    "uptimeYear": "0.49%",
+    "time": 770,
+    "timeDay": 770,
+    "timeWeek": 770,
+    "timeMonth": 770,
+    "timeYear": 770,
     "dailyMinutesDown": {
-      "2023-08-20": 2
+      "2023-08-20": 17
     }
   }
 ]
