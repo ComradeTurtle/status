@@ -21,7 +21,6 @@ sites:
       - "Content-Type: application/json"
     __dangerous__body_down_if_text_missing: "API running"
     icon: https://www.home-assistant.io/images/favicon.ico
-    
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
