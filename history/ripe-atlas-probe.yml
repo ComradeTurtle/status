@@ -1,7 +1,7 @@
-url: https://atlas.ripe.net/api/v2/probes/1006104/?format=txt
+url: $ATLURL
 status: up
 code: 200
-responseTime: 480
-lastUpdated: 2023-08-20T11:52:04.203Z
+responseTime: 461
+lastUpdated: 2023-08-20T11:56:14.290Z
 startTime: 2023-08-20T11:19:07.652Z
 generator: Upptime <https://github.com/upptime/upptime>
