@@ -22,7 +22,7 @@ sites:
     __dangerous__body_down_if_text_missing: "API running"
     icon: https://www.home-assistant.io/images/favicon.ico
   - name: RIPE Atlas Probe
-    url: https://atlas.ripe.net/api/v2/probes/1006104/
+    url: https://atlas.ripe.net/api/v2/probes/1006104/?format=txt
     icon: https://www.ripe.net/favicon.ico
     __dangerous__body_down_if_text_missing: '"name": "Connected"'
 
