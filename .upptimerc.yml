@@ -21,10 +21,10 @@ sites:
       - "Content-Type: application/json"
     __dangerous__body_down_if_text_missing: "API running"
     icon: https://www.home-assistant.io/images/favicon.ico
-    - name: RIPE Atlas Probe
-      url: https://atlas.ripe.net/api/v2/probes/1006104/
-      icon: https://www.ripe.net/favicon.ico
-      __dangerous__body_down_if_text_missing: '"name": "Connected"'
+  - name: RIPE Atlas Probe
+    url: https://atlas.ripe.net/api/v2/probes/1006104/
+    icon: https://www.ripe.net/favicon.ico
+    __dangerous__body_down_if_text_missing: '"name": "Connected"'
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
