@@ -1,7 +1,7 @@
-url: https://apousieshealth.cturtle.workers.dev
+url: $APURL
 status: up
 code: 200
-responseTime: 2072
-lastUpdated: 2023-08-20T11:52:02.518Z
+responseTime: 1852
+lastUpdated: 2023-08-20T11:56:12.748Z
 startTime: 2023-08-20T10:52:54.846Z
 generator: Upptime <https://github.com/upptime/upptime>
