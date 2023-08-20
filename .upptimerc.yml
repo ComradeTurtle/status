@@ -34,12 +34,14 @@ status-website:
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: ComradeTurtle - Status
   introTitle: "Realtime status updates on all of my services."
-  introDescription: "Here you will find the status of all my selfhosted services - including the not public facing ones. Updates every 5 minutes."
+  introMessage: "Here you will find the status of all my selfhosted services - including the not public facing ones. Updates every 5 minutes."
   navbar:
     - title: Status
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
+    - Contact:
+      href: mailto:giorgosd1300@shadowct.eu
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
