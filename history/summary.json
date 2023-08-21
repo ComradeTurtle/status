@@ -4,19 +4,19 @@
     "url": "$MWURL",
     "icon": "https://meteora-weather.gr/favicon.ico",
     "slug": "meteora-weather-gr",
-    "status": "down",
-    "uptime": "97.02%",
-    "uptimeDay": "95.59%",
-    "uptimeWeek": "97.02%",
-    "uptimeMonth": "97.02%",
-    "uptimeYear": "97.02%",
-    "time": 730,
-    "timeDay": 807,
-    "timeWeek": 730,
-    "timeMonth": 730,
-    "timeYear": 730,
+    "status": "up",
+    "uptime": "96.51%",
+    "uptimeDay": "94.80%",
+    "uptimeWeek": "96.51%",
+    "uptimeMonth": "96.51%",
+    "uptimeYear": "96.51%",
+    "time": 745,
+    "timeDay": 830,
+    "timeWeek": 745,
+    "timeMonth": 745,
+    "timeYear": 745,
     "dailyMinutesDown": {
-      "2023-08-21": 63
+      "2023-08-21": 74
     }
   },
   {
