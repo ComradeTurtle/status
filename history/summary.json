@@ -5,19 +5,17 @@
     "icon": "https://meteora-weather.gr/favicon.ico",
     "slug": "meteora-weather-gr",
     "status": "up",
-    "uptime": "97.66%",
-    "uptimeDay": "97.66%",
-    "uptimeWeek": "97.66%",
-    "uptimeMonth": "97.66%",
-    "uptimeYear": "97.66%",
-    "time": 669,
-    "timeDay": 669,
-    "timeWeek": 669,
-    "timeMonth": 669,
-    "timeYear": 669,
-    "dailyMinutesDown": {
-      "2023-08-20": 11
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 666,
+    "timeDay": 666,
+    "timeWeek": 666,
+    "timeMonth": 666,
+    "timeYear": 666,
+    "dailyMinutesDown": {}
   },
   {
     "name": "apousies.gr",
@@ -30,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2336,
-    "timeDay": 2336,
-    "timeWeek": 2336,
-    "timeMonth": 2336,
-    "timeYear": 2336,
+    "time": 2303,
+    "timeDay": 2303,
+    "timeWeek": 2303,
+    "timeMonth": 2303,
+    "timeYear": 2303,
     "dailyMinutesDown": {}
   },
   {
@@ -48,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 641,
-    "timeDay": 641,
-    "timeWeek": 641,
-    "timeMonth": 641,
-    "timeYear": 641,
+    "time": 642,
+    "timeDay": 642,
+    "timeWeek": 642,
+    "timeMonth": 642,
+    "timeYear": 642,
     "dailyMinutesDown": {}
   },
   {
@@ -66,11 +64,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 534,
-    "timeDay": 534,
-    "timeWeek": 534,
-    "timeMonth": 534,
-    "timeYear": 534,
+    "time": 547,
+    "timeDay": 547,
+    "timeWeek": 547,
+    "timeMonth": 547,
+    "timeYear": 547,
     "dailyMinutesDown": {}
   }
 ]
