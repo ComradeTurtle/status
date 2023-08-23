@@ -1,7 +1,7 @@
 url: $APURL
-status: up
+status: degraded
 code: 200
-responseTime: 4728
-lastUpdated: 2023-08-23T18:48:25.045Z
+responseTime: 9338
+lastUpdated: 2023-08-23T19:00:07.756Z
 startTime: 2023-08-20T10:52:54.846Z
 generator: Upptime <https://github.com/upptime/upptime>
