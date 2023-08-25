@@ -5,18 +5,17 @@
     "icon": "https://meteora-weather.gr/favicon.ico",
     "slug": "meteora-weather-gr",
     "status": "up",
-    "uptime": "99.04%",
-    "uptimeDay": "99.22%",
-    "uptimeWeek": "99.04%",
-    "uptimeMonth": "99.04%",
-    "uptimeYear": "99.04%",
+    "uptime": "99.19%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.19%",
+    "uptimeMonth": "99.19%",
+    "uptimeYear": "99.19%",
     "time": 780,
     "timeDay": 1067,
     "timeWeek": 780,
     "timeMonth": 780,
     "timeYear": 780,
     "dailyMinutesDown": {
-      "2023-08-25": 11,
       "2023-08-21": 63
     }
   },
@@ -45,19 +44,19 @@
     "url": "$HAURL",
     "icon": "https://www.home-assistant.io/images/favicon.ico",
     "slug": "home-assistant",
-    "status": "down",
-    "uptime": "99.85%",
-    "uptimeDay": "99.21%",
-    "uptimeWeek": "99.85%",
-    "uptimeMonth": "99.85%",
-    "uptimeYear": "99.85%",
-    "time": 590,
-    "timeDay": 400,
-    "timeWeek": 590,
-    "timeMonth": 590,
-    "timeYear": 590,
+    "status": "up",
+    "uptime": "99.68%",
+    "uptimeDay": "98.24%",
+    "uptimeWeek": "99.68%",
+    "uptimeMonth": "99.68%",
+    "uptimeYear": "99.68%",
+    "time": 586,
+    "timeDay": 440,
+    "timeWeek": 586,
+    "timeMonth": 586,
+    "timeYear": 586,
     "dailyMinutesDown": {
-      "2023-08-25": 11
+      "2023-08-25": 25
     }
   },
   {
@@ -65,19 +64,19 @@
     "url": "$ATLURL",
     "icon": "https://www.ripe.net/favicon.ico",
     "slug": "ripe-atlas-probe",
-    "status": "down",
-    "uptime": "99.86%",
-    "uptimeDay": "99.22%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.86%",
-    "uptimeYear": "99.86%",
-    "time": 590,
-    "timeDay": 730,
-    "timeWeek": 590,
-    "timeMonth": 590,
-    "timeYear": 590,
+    "status": "up",
+    "uptime": "99.67%",
+    "uptimeDay": "98.24%",
+    "uptimeWeek": "99.67%",
+    "uptimeMonth": "99.67%",
+    "uptimeYear": "99.67%",
+    "time": 582,
+    "timeDay": 651,
+    "timeWeek": 582,
+    "timeMonth": 582,
+    "timeYear": 582,
     "dailyMinutesDown": {
-      "2023-08-25": 11
+      "2023-08-25": 25
     }
   }
 ]
