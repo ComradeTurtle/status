@@ -28,14 +28,6 @@ sites:
   - name: PrimeGrid Challenge Statistics
     url: https://pgapi.comradeturtle.dev/v1/statistics
     icon: https://pg.comradeturtle.dev/assets/img/image(2).png
-  - name: Aura Bot
-    url: $AURAURL
-    headers:
-      - "Content-Type: application/json"
-    icon: https://bot.auragroup.dev/favicon.ico
-    __dangerous__body_down: "DISCONNECTED"
-    __dangerous__body_degraded: "CONNECTING"
-    maxResponseTime: 5000
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
