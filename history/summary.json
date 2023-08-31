@@ -10,11 +10,11 @@
     "uptimeWeek": "99.25%",
     "uptimeMonth": "99.13%",
     "uptimeYear": "99.13%",
-    "time": 826,
-    "timeDay": 630,
-    "timeWeek": 953,
-    "timeMonth": 826,
-    "timeYear": 826,
+    "time": 828,
+    "timeDay": 712,
+    "timeWeek": 944,
+    "timeMonth": 828,
+    "timeYear": 828,
     "dailyMinutesDown": {
       "2023-08-28": 76,
       "2023-08-21": 63
@@ -31,11 +31,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.82%",
     "uptimeYear": "99.82%",
-    "time": 2318,
-    "timeDay": 234,
-    "timeWeek": 233,
-    "timeMonth": 2318,
-    "timeYear": 2318,
+    "time": 2173,
+    "timeDay": 224,
+    "timeWeek": 229,
+    "timeMonth": 2173,
+    "timeYear": 2173,
     "dailyMinutesDown": {
       "2023-08-23": 29
     }
@@ -51,11 +51,11 @@
     "uptimeWeek": "99.10%",
     "uptimeMonth": "99.43%",
     "uptimeYear": "99.43%",
-    "time": 584,
-    "timeDay": 589,
-    "timeWeek": 552,
-    "timeMonth": 584,
-    "timeYear": 584,
+    "time": 601,
+    "timeDay": 670,
+    "timeWeek": 586,
+    "timeMonth": 601,
+    "timeYear": 601,
     "dailyMinutesDown": {
       "2023-08-28": 65,
       "2023-08-25": 25
@@ -72,11 +72,11 @@
     "uptimeWeek": "99.22%",
     "uptimeMonth": "99.50%",
     "uptimeYear": "99.50%",
-    "time": 614,
-    "timeDay": 680,
-    "timeWeek": 651,
-    "timeMonth": 614,
-    "timeYear": 614,
+    "time": 613,
+    "timeDay": 654,
+    "timeWeek": 645,
+    "timeMonth": 613,
+    "timeYear": 613,
     "dailyMinutesDown": {
       "2023-08-28": 53,
       "2023-08-25": 25
@@ -93,11 +93,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 567,
-    "timeDay": 567,
-    "timeWeek": 567,
-    "timeMonth": 567,
-    "timeYear": 567,
+    "time": 753,
+    "timeDay": 753,
+    "timeWeek": 753,
+    "timeMonth": 753,
+    "timeYear": 753,
     "dailyMinutesDown": {}
   },
   {
@@ -106,18 +106,18 @@
     "icon": "https://bot.auragroup.dev/favicon.ico",
     "slug": "aura-bot",
     "status": "down",
-    "uptime": "3.61%",
-    "uptimeDay": "3.61%",
-    "uptimeWeek": "3.61%",
-    "uptimeMonth": "3.61%",
-    "uptimeYear": "3.61%",
+    "uptime": "0.26%",
+    "uptimeDay": "0.26%",
+    "uptimeWeek": "0.26%",
+    "uptimeMonth": "0.26%",
+    "uptimeYear": "0.26%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-08-31": 0
+      "2023-08-31": 7
     }
   }
 ]
