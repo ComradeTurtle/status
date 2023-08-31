@@ -30,6 +30,8 @@ sites:
     icon: https://pg.comradeturtle.dev/assets/img/image(2).png
   - name: Aura Bot
     url: $AURAURL
+    headers:
+      - "Content-Type: application/json"
     icon: https://bot.auragroup.dev/favicon.ico
     __dangerous__body_down: "DISCONNECTED"
     __dangerous__body_degraded: "CONNECTING"
