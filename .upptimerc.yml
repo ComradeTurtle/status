@@ -7,7 +7,7 @@ sites:
     url: $MWURL
     __dangerous__body_down: "fail"
     __dangerous__body_degraded: "degraded"
-    maxResponseTime: 3000
+    maxResponseTime: 4000
     icon: https://meteora-weather.gr/favicon.ico
   - name: apousies.gr
     url: $APURL
