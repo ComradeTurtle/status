@@ -1,7 +1,7 @@
 url: $MWURL
-status: down
-code: 530
-responseTime: 267
-lastUpdated: 2023-11-23T19:14:32.477Z
+status: up
+code: 200
+responseTime: 585
+lastUpdated: 2023-11-23T22:17:00.316Z
 startTime: 2023-08-20T10:52:52.056Z
 generator: Upptime <https://github.com/upptime/upptime>
