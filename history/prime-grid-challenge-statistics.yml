@@ -1,7 +1,7 @@
 url: https://pgapi.comradeturtle.dev/v1/statistics
-status: down
-code: 404
-responseTime: 622
-lastUpdated: 2024-01-11T23:14:53.002Z
+status: up
+code: 200
+responseTime: 410
+lastUpdated: 2024-01-11T23:47:29.600Z
 startTime: 2023-08-31T12:31:45.453Z
 generator: Upptime <https://github.com/upptime/upptime>
