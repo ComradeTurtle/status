@@ -1,7 +1,7 @@
 url: $MWURL
-status: degraded
+status: up
 code: 200
-responseTime: 783
-lastUpdated: 2024-01-12T05:52:50.161Z
+responseTime: 528
+lastUpdated: 2024-01-12T06:15:11.340Z
 startTime: 2023-08-20T10:52:52.056Z
 generator: Upptime <https://github.com/upptime/upptime>
