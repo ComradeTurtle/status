@@ -1,7 +1,7 @@
 url: $ATLURL
-status: down
+status: up
 code: 200
-responseTime: 642
-lastUpdated: 2024-03-09T15:40:55.393Z
+responseTime: 404
+lastUpdated: 2024-03-09T15:51:51.905Z
 startTime: 2023-08-20T11:19:07.652Z
 generator: Upptime <https://github.com/upptime/upptime>
